@@ -8,6 +8,7 @@ function App() {
     {/*    tinder body*/}
     {/*    tinder body*/}
     {/*    tinder body*/}
+    {/*    tinder body*/}
     </div>
   );
 }
