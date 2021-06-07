@@ -15,6 +15,16 @@ const TinderCards = () => {
             url: "https://api.time.com/wp-content/uploads/2020/07/jeff-bezos.jpg",
         },
 
+        {
+            name: "Lauren Bezos",
+            url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeff-bezos-and-lauren-sanchez-attend-tom-ford-autumn-winter-news-photo-1583141278.jpg",
+        },
+
+        {
+            name: "Michael Bezos",
+            url: "https://i.insider.com/5e2f18d45bc79c748d69ba15?width=1136&format=jpeg",
+        },
+
 
     ]);
 
